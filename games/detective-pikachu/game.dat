@@ -1,0 +1,9 @@
+title = "Detective Pikachu"
+description = "As Tim Goodman, you'll partner with a self-proclaimed \"great detective\" Pikachu to solve strange occurrences all over Ryme City. Together you must investigate, take notes, and meet up with other Pokémon to unravel the city's greatest mysteries!\n\nTim is searching for his missing father in Ryme City, but instead encounters a witty, tough-talking Pikachu! Along the way, experience over 150 fun-filled animated cutscenes starring this unique Pikachu, providing helpful hints or talking up a storm."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001C1E00"
+region = "tutti"
+release_date = "2018-03-23"
